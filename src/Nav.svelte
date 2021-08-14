@@ -35,11 +35,12 @@ const words = [
 <header class="header">
   {#key randIndex}
   <nav class="nav">
+    <a href="https://carlos.vercel.app/">
     <img 
-    href="https://carlos.vercel.app/"
     class="avatar" 
     src="meandchurro.jpg" 
     alt="carlos">
+    </a>
     <h1 id="title" in:fade >{words[randIndex]}</h1>
   </nav>
   {/key}
