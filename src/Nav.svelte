@@ -36,6 +36,7 @@ const words = [
   {#key randIndex}
   <nav class="nav">
     <img 
+    href="https://carlos.vercel.app/"
     class="avatar" 
     src="meandchurro.jpg" 
     alt="carlos">
