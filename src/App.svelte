@@ -27,8 +27,9 @@
 <style>
 
   body {
-    margin: auto 0;
+    margin: 0;
     border-radius: 1em;
+    padding: 0;
   }
 
 
@@ -37,14 +38,11 @@
     background-attachment: fixed;
     font-family:'Roboto', sans-serif;
     font: 1em/1.3;
-    margin: 0 auto;
+    margin: 0;
     min-height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 1.5em;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   @keyframes gradient {
