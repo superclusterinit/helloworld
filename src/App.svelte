@@ -42,6 +42,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding: 1.5em;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   @keyframes gradient {
