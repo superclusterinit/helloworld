@@ -51,11 +51,11 @@ const words = [
   .header {
     height: 200px;
     height: 100px;
-    background: rgba(255, 255, 255, 0.596);
+    background: rgba(255, 255, 255, 0.863);
     border-radius: 1em;
     margin-top: 0%;
     position: relative;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    box-shadow: 0 3px 6px rgba(0, 174, 255, 0.479), 0 3px 6px rgba(0,0,0,0.23);
   }
 
   .avatar {

@@ -65,6 +65,7 @@ function handleClickSkills() {
 <style>
   .ln {
     margin: 0.5em;
+    margin-bottom: 100px;
     object-fit: cover;
     border-radius:50%;
     width: 75px;
@@ -76,7 +77,7 @@ function handleClickSkills() {
   }
   h2 {
     font-weight: 200;
-    color: rgba(152, 91, 202, 0.808);
+    color: rgba(130, 39, 204, 0.808);
   }
 
   h3 {
@@ -95,7 +96,7 @@ function handleClickSkills() {
     padding: 0.35em 1.2em;
     border:0.1em solid #e9b0fa;
     margin:0 0.3em 0.3em 0;
-    border-radius: 0.12em;  
+    border-radius: 1em;  
     box-sizing: border-box;
     text-decoration: none;
     font-family:'Roboto',sans-serif;
@@ -143,12 +144,12 @@ function handleClickSkills() {
   }
 
   .card {
-    background: rgba(255, 255, 255, 0.548);
+    background: rgba(255, 255, 255, 0.863);
     display: inline-block;
     border-radius: 1em;
     width: 200px;
     height: 200px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    box-shadow: 0 10px 20px rgba(0, 174, 255, 0.274), 0 3px 6px rgba(0,0,0,0.23);
     padding: 1em;
     margin: 1em;
     vertical-align: auto;
